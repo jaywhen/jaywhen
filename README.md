@@ -2,5 +2,5 @@
 
 
 - I’m a rookie coder
-- I'm just learning on there
+- Learning
 - I love coding && play basketball && ancient Chinese Poetry
