@@ -1,4 +1,5 @@
 ### Hi there 👋
 - Better
-- 
-![profile-views](https://komarev.com/ghpvc/?username=jaywhen&color=blue)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jaywhen&label=Profile%20views&color=0e75b6&style=flat" alt="jaywhen-profile-views" /> </p>
+
